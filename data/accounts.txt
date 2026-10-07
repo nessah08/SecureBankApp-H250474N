@@ -1,0 +1,3 @@
+# accountNumber,owner,type,balance
+3989663819,vanessa,SAVINGS,100.00
+4820198362,vanessah,SAVINGS,600.00
